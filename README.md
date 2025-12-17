@@ -10,7 +10,7 @@
  <hr />
 <br clear="both">
 
-  <h2>🖥️ Interface do Sistema (Terminal)</h2>
+  <h2>Interface do Sistema (Terminal)</h2>
 
   <p>
     A imagem abaixo apresenta a execução real do sistema no terminal, exibindo o menu principal e as opções disponíveis para interação com o usuário:
@@ -25,7 +25,7 @@
 
   <hr />
 
-  <h2>🎯 Funcionalidades</h2>
+  <h2>Funcionalidades</h2>
 
   <ul>
     <li>• Cadastrar produtos no estoque</li>
@@ -37,7 +37,7 @@
 
   <hr />
 
-  <h2>🧠 Conceitos de Programação Aplicados</h2>
+  <h2>Conceitos de Programação Aplicados</h2>
 
   <h3>🔹 Programação Orientada a Objetos (POO)</h3>
 
@@ -62,7 +62,7 @@
 
   <hr />
 
-  <h2>🧩 Diagrama UML</h2>
+  <h2>Diagrama UML</h2>
 
   <p>
     O sistema foi modelado por meio de um <strong>Diagrama de Classes UML</strong>, evidenciando as relações de herança, interface e agregação entre os componentes do projeto.
@@ -75,7 +75,7 @@
   <hr />
 
   <div align="center">
-  <h2>🚀 Tecnologias Utilizadas</h2>
+  <h2>Tecnologias Utilizadas</h2>
   </div>
 
 ###
